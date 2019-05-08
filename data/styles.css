@@ -93,10 +93,19 @@
   color:#000000;
   text-align:left;
 }
+.checkbox {
+  text-align:left;
+}
 .radio_button {
   text-align:left;
 }
 ._流程形状 {
+}
+._连接线 {
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
 }
 .heading_1 {
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
@@ -118,12 +127,14 @@
 }
 .box_2 {
 }
+.box_3 {
+}
 .image {
   color:#000000;
 }
 .vertical_line {
 }
-.checkbox {
+.checkbox1 {
   text-align:left;
 }
 .radio_button1 {
